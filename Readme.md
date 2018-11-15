@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GrayTheme.xaml](./CS/CustomTheme/GrayTheme.xaml) (VB: [GrayTheme.xaml](./VB/CustomTheme/GrayTheme.xaml))
+* [Window1.xaml](./CS/CustomTheme/Window1.xaml) (VB: [Window1.xaml.vb](./VB/CustomTheme/Window1.xaml.vb))
+* [Window1.xaml.cs](./CS/CustomTheme/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/CustomTheme/Window1.xaml.vb))
+<!-- default file list end -->
 # How to create a custom theme for DXDocking for WPF
 
 
